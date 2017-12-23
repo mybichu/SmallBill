@@ -24,9 +24,9 @@ public class RecoverPanel extends WorkingPanel {
 
 	}
 
-	public static void main(String[] args) {
-		GUIUtil.showPanel(RecoverPanel.instance);
-	}
+//	public static void main(String[] args) {
+//		GUIUtil.showPanel(RecoverPanel.instance);
+//	}
 
 	@Override
 	public void updateData() {

@@ -98,10 +98,10 @@ public class SpendPanel extends WorkingPanel {
 		return p;
 	}
 
-	public static void main(String[] args) {
-
-		GUIUtil.showPanel(SpendPanel.instance);
-	}
+//	public static void main(String[] args) {
+//
+//		GUIUtil.showPanel(SpendPanel.instance);
+//	}
 
 	@Override
 	public void updateData() {

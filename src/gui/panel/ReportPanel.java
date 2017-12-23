@@ -37,9 +37,9 @@ public class ReportPanel extends WorkingPanel {
         addListener();
 	}
 
-	public static void main(String[] args) {
-		GUIUtil.showPanel(instance);
-	}
+//	public static void main(String[] args) {
+//		GUIUtil.showPanel(instance);
+//	}
 
 	@Override
 	public void updateData() {

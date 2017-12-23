@@ -112,7 +112,7 @@ public class DateUtil {
 		return (int) ((todayMilliSecs - firstDayMillisecs) / millisecondsOfOneDay) + 1;
 	}
 
-	public static void main(String[] args) {
-		System.out.println(DateUtil.thisMonthSpentDay());
-	}
+//	public static void main(String[] args) {
+//		System.out.println(DateUtil.thisMonthSpentDay());
+//	}
 }

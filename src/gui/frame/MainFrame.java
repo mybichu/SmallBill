@@ -16,7 +16,7 @@ public class MainFrame extends JFrame {
 		this.setDefaultCloseOperation(3);
 	}
 
-	public static void main(String[] args) {
-		instance.setVisible(true);
-	}
+//	public static void main(String[] args) {
+//		instance.setVisible(true);
+//	}
 }
